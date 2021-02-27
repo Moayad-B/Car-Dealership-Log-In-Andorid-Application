@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="username">User Name</string>
+    <string name="password">Enter a password</string>
+    <string name="login">Login</string>
+    <string name="make_model">Make-Model</string>
+    <string name="price">Price</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name ="Close">NavBar</string>/>
+
+    <string name ="Open">NavBar</string>
+    <string name="hi">hi</string>
+    <string name="hey">hey</string>
+    <string name="maker_model">Maker/Model</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="vehichle_image">Vehichle Image</string>
+    <string name="car_image">Car Image</string>/>
+
+
+</resources>
